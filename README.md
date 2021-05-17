@@ -24,7 +24,8 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 
 ## 📃 Informações extras
-1 - O Aplicativo só funciona no OS Android, para testar o app é necessario ativar o modo depuração, e estar com o cabo usb conectado no aparelho e computador. 
+1 - O Aplicativo só funciona no OS Android, para testar o app é necessario ativar o modo depuração, e estar com o cabo usb conectado no aparelho e computador.
+<br>
 2 - Os comandos para executar o app devem ser feitos após o aparelho já estar conectado com o computador que vai ser utilizado.
 
 
