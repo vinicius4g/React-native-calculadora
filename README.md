@@ -9,7 +9,7 @@ Descrição do app: Calculadora funcional com a ui/ux do sistema IOS
 - Imagens do projeto funcionando estão na pasta: screenshots.
 
 
-## 🔨 Techs
+## 🔨 Tech
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
